@@ -1,7 +1,6 @@
 # CPP
-C++ Codes from Coding Ninjas
 
-This repository contains most of the codes I wrote while learning C++ from Coding Ninjas.
+This repository contains all the codes I wrote while learning C++ from Coding Ninjas and few of C source codes written while learning Linux.
 
 The topics covered in this repository include:
 
@@ -9,14 +8,16 @@ The topics covered in this repository include:
     Data Structures
     Algorithms
     Object-Oriented Programming
+    Competitive Programming
+    Linux
 
-I hope this repository will be a helpful resource for anyone who is learning C++.
+I hope this repository will be a helpful resource for anyone who is learning C++ or Linux.
 Getting Started
 
 To clone this repository, run the following command in your terminal:
 Code snippet
 
-git clone https://github.com/[your-username]/cpp-codes-from-coding-ninjas.git
+git clone https://github.com/DAnand05/CPP.git
 
 Use code with caution. Learn more
 
@@ -32,3 +33,52 @@ This repository is licensed under the MIT License.
 Thank you!
 
 Thank you for your interest in this repository. I hope you find it helpful!
+
+Here are some additional details about the codes in this repository:
+
+    The codes are written in C++ and C.
+    The codes are well-commented and easy to understand.
+    The codes are tested and work correctly.
+    The codes are free to use for any purpose.
+
+I hope you find these codes helpful in your learning journey!
+
+Here are some of the codes in the repository:
+
+    Basics of C++
+        Hello World
+        Variables
+        Constants
+        Data Types
+        Operators
+        Control Flow Statements
+        Functions
+    Data Structures
+        Arrays
+        Linked Lists
+        Stacks
+        Queues
+        Trees
+        Heaps
+    Algorithms
+        Bubble Sort
+        Selection Sort
+        Insertion Sort
+        Merge Sort
+        Quick Sort
+        Heap Sort
+    Object-Oriented Programming
+        Classes
+        Objects
+        Encapsulation
+        Abstraction
+        Polymorphism
+    Competitive Programming
+        Problems
+        Solutions
+    Linux
+        Basic commands
+        File management
+        Shell scripting
+
+I hope you find these codes helpful in your learning journey!
